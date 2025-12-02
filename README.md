@@ -1,4 +1,6 @@
-## Deep Learning Classification using softmax with cross-entropy setup (multi-class classification).
+## Deep Learning Classification
+* using softmax with cross-entropy setup (multi-class classification).
+* binary classification using a deep CNN + logistic (sigmoid) output 
 
 
 
@@ -39,5 +41,6 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
 
