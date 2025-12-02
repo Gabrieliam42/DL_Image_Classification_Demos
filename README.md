@@ -1,4 +1,4 @@
-## Deep Learning Classification using a softmax with cross-entropy setup (multi-class classification).
+## Deep Learning Classification using softmax with cross-entropy setup (multi-class classification).
 
 
 
@@ -39,4 +39,5 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
